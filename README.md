@@ -19,16 +19,6 @@ The Myntra Clone project replicates the basic design and layout of the Myntra we
 - Product details page
 - Basic styling mimicking the original website
 
-## Installation
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/aditiarya37/Myntra-Clone.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd myntra-clone
-    ```
-
 ## Usage
 Open `index.html` in your preferred web browser to view the website.
 
